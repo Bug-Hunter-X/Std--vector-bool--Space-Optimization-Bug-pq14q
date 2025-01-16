@@ -1,0 +1,1 @@
+std::vector<bool> is not a standard compliant implementation of a bitset and can cause unexpected behavior due to its space optimization.  It may not follow the standard copy semantics and may lead to surprising results.
